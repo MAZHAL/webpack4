@@ -1,11 +1,11 @@
 {
   "presets": [
-    "env",
+    "env"
   ],
   "env": {
     "development": {
       "presets": [
-
       ]
     }
   }
+}
